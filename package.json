@@ -1,0 +1,24 @@
+{
+  "name": "Magic-Mirror-Module-Adafruit",
+  "version": "0.1.0",
+  "description": "A module for displaying Adafruit data.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopyth/MMM-Adafruit"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "Adafruit"
+  ],
+  "author": "Joseph Bethge",
+  "contributors": "git+https://github.com/jopyth/MMM-Adafruit/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/jopyth/MMM-Adafruit/issues"
+  },
+  "homepage": "git+https://github.com/jopyth/MMM-Adafruit#readme",
+  "dependencies": {
+    "chart.js": "latest"
+  }
+}
